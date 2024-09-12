@@ -1,3 +1,3 @@
 ## I'm Bangjoyyy 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyonurdiansyah)](https://github.com/joyonurdiansyah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyonurdiansyah&layout=pie)](https://github.com/joyonurdiansyah/github-readme-stats)
